@@ -1,0 +1,12 @@
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\bin\Debug\net7.0\SchoolApp.Logic.deps.json
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\bin\Debug\net7.0\SchoolApp.Logic.dll
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\bin\Debug\net7.0\SchoolApp.Logic.pdb
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\obj\Debug\net7.0\SchoolApp.Logic.csproj.AssemblyReference.cache
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\obj\Debug\net7.0\SchoolApp.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\obj\Debug\net7.0\SchoolApp.Logic.AssemblyInfoInputs.cache
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\obj\Debug\net7.0\SchoolApp.Logic.AssemblyInfo.cs
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\obj\Debug\net7.0\SchoolApp.Logic.csproj.CoreCompileInputs.cache
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\obj\Debug\net7.0\SchoolApp.Logic.dll
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\obj\Debug\net7.0\refint\SchoolApp.Logic.dll
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\obj\Debug\net7.0\SchoolApp.Logic.pdb
+C:\ASP.NET Core Blazor\BlazorApp1\SchoolApp.Logic\obj\Debug\net7.0\ref\SchoolApp.Logic.dll
